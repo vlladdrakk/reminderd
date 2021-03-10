@@ -1,0 +1,6 @@
+from: reminderd@example.com
+recipient_name: name
+recipient_email: someone@example.com
+smtp_server: smtp.example.com:587
+smtp_login: login@example.com
+smtp_password: example_password
